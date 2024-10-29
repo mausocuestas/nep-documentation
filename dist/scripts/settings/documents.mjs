@@ -1,12 +1,12 @@
 export const Documents = [
     {
-        title: "Introduction",
-        href: "/introduction",
+        title: "Introdução",
+        href: "/Introdução",
         heading: "Getting started",
         items: [
             {
-                title: "Installation",
-                href: "/installation",
+                title: "Instalação",
+                href: "/Instalação",
             },
             {
                 title: "Setup",
@@ -27,8 +27,8 @@ export const Documents = [
         heading: "Documents",
     },
     {
-        title: "Structure",
-        href: "/structure",
+        title: "Estrutura",
+        href: "/Estrutura",
         items: [
             {
                 title: "Deeper",
