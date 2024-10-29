@@ -17,15 +17,15 @@ export default function Error({
   return (
     <div className="min-h-[99vh] px-2 py-8 flex flex-col gap-3 items-start">
       <div>
-        <h2 className="text-5xl font-bold">Oops!</h2>
-        <p className="text-muted-foreground">Something went wrong!</p>
+        <h2 className="text-5xl font-bold">Opa!</h2>
+        <p className="text-muted-foreground">Algo deu ruim!</p>
       </div>
       <Button
         onClick={
           () => reset()
         }
       >
-        Try again
+        Tente outra vez
       </Button>
     </div>
   );

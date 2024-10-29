@@ -26,7 +26,7 @@ export function Footer() {
             >
               <Image
                 src="/logo.svg"
-                alt="Rubix Studios Logo"
+                alt="JS Insights"
                 width={30}
                 height={30}
               />

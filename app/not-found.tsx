@@ -9,14 +9,14 @@ export default function NotFound() {
         404
       </h1>
       <p className="max-w-[600px] text-foreground mb-8 sm:text-base">
-        Page not found
+        Página não encontrada
       </p>
       <div className="flex items-center">
         <Link 
           href="/" 
           className={buttonVariants({ className: "px-6", size: "lg" })}
         >
-          Return Home
+          Retornar à Home
         </Link>
       </div>
     </div>
